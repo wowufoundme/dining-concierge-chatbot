@@ -9,5 +9,5 @@
 _This README is currently a WIP_
 
 ### Contributors
-- Rijul Nandy [[rijul10](https://github.com/rijul10 "Rijul Nandy Github")]
-- Shubhkirti Sharma [[wowufoundme](https://github.com/wowufoundme "Shubhkirti Sharma Github")]
+- Rijul Nandy (rn2245) [[rijul10](https://github.com/rijul10 "Rijul Nandy Github")]
+- Shubhkirti Sharma (ss13905) [[wowufoundme](https://github.com/wowufoundme "Shubhkirti Sharma Github")]
